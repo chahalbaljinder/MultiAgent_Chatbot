@@ -43,7 +43,7 @@ python chatbot_with_tools.py
 ## 🏗️ Project Structure
 ```
 ├── chatbot.py                 # Standalone AI chatbot
-├── chatbot_with_tools.py      # Chatbot with Wikipedia & Arxiv integration
+├── main.py                    # Chatbot with Wikipedia & Arxiv integration
 ├── .env                       # Environment variables (not included in repo)
 ├── requirements.txt           # Dependencies
 ├── .ipynb_checkpoints/        # Jupyter notebook checkpoints
